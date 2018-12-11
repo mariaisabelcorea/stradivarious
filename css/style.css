@@ -1,0 +1,108 @@
+
+.left { 
+	color: #6E6969;
+} 
+
+.material-icons{ 
+	color: #6E6969;
+	font-size: 30px;
+} 
+
+.imagen img {
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+} 
+
+#hero{
+	background-image: url( ../img/57d62c7e-b2b4-4c61-ad1a-bc42eaeed752.jpg);
+	background-size: cover;
+	padding: 60% 0;
+}
+
+#hero h4{ 
+	font-size: 70px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+} 
+
+#hero p{ 
+	font-size: 20px;
+	color: #FFFFFF; 
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin-top: 0;
+	text-transform: lowercase;
+} 
+
+#collection{
+	background-image: url( ../img/04d27197-3af0-4d00-9a76-2eef7443a76d.jpg);
+	background-size: cover;
+	padding: 60% 0;	 
+}
+
+#noches{
+	background-image: url( ../img/look_01.jpg);
+	background-size: cover;
+	padding: 60% 0;	 
+}
+
+#noches h4 {
+font-size: 70px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+#noches p{ 
+	font-size: 20px;
+	color: #FFFFFF; 
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin-top: auto;
+	text-transform: lowercase;
+} 
+
+.title.block{
+	margin: 10px 0;
+}
+.title .block-header{
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+}
+
+.title p { 
+	text-align: center;
+} 
+
+.subscribe h3{ 
+	font-size: 15px; 
+} 
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+
+.btn-white {
+	background-color:#FFF;
+	color: #000000 !important;
+	border-radius: 0;
+	border:0;
+	text-transform: uppercase;
+	padding: 15px 15px;
+	font-size: 10px;
+	margin-top: 40px;
+}
+
+.btn-white:hover{
+	background-color:#d4b30d;
+	color: #FFF;}
+.card-content{
+}
+
+
+
+
+
+
